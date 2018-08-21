@@ -16,4 +16,6 @@ Algorithms like
 10) Patch based Filters -- directory 5
 
 
+Directorey 3 contains code for sharping images using unsharp mask.OpenCv used in this.
+
 This algorithm list will be updated monthlly or might be in 2 weeks of periodic time.
