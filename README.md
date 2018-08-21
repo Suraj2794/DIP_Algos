@@ -16,4 +16,4 @@ Algorithms like
 10) Patch based Filters
 
 
-This algorithm list will be updated monthlly or might be in 2 nweeks of periodic time.
+This algorithm list will be updated monthlly or might be in 2 weeks of periodic time.
