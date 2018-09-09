@@ -14,6 +14,8 @@ Algorithms like
 8) Contrast limited Adaptive Histogram Equalization - -- directory 2
 9) Bilateral Filter - -- directory 4
 10) Patch based Filters -- directory 5
+11) Harris corner edge detetction :-- directory 6
+12) Mean Shift Segmenting images :-- directory 7
 
 
 Directorey 3 contains code for sharping images using unsharp mask.OpenCv used in this.
