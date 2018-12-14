@@ -16,6 +16,7 @@ Algorithms like
 10) Patch based Filters -- directory 5
 11) Harris corner edge detetction :-- directory 6
 12) Mean Shift Segmenting images :-- directory 7
+13) PCA and SVD in directory 8 to 11.
 
 
 Directorey 3 contains code for sharping images using unsharp mask.OpenCv used in this.
