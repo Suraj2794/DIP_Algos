@@ -1,1 +1,4 @@
 This directory contains Harris corner edge detection written in python all from scratch.
+
+Algo also contains finding edges horizontally and vertically which is also written all from scratch performed using  basic convolution 
+
